@@ -1,0 +1,21 @@
+#Desafio 1
+
+nome = input('Qual o seu nome? ')
+print('Olá', nome,'! Prazer em te conhecer!')
+print('')
+
+#Desafio 2
+
+dia = input('Dia = ')
+mes = input('Dia = ')
+ano = input('Dia = ')
+print('Você nasceu no dia', dia, 'de', mes, 'de', ano,'. Correto?')
+print('')
+
+#Desafio 3
+
+pri = int(input('O primeiro número é:' ))
+seg = int(input('O segundo número é:' ))
+soma = pri + seg
+print(f'A soma é {soma}')
+print('')

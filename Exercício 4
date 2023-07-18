@@ -1,0 +1,4 @@
+valor = input('Digite algo:  ')
+print('O tipo primitivo deste valor é', type(valor))
+print('Só tem espaços?', (valor.isspace))
+
