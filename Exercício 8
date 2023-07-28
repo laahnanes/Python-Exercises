@@ -1,0 +1,14 @@
+n = int(input())
+qui = n / 1000
+hec = n / 100
+dac = n /10
+dc = n * 10
+cen = n * 100
+mil = n * 1000
+print(f'{qui} quilometros')
+print(f'{hec} hectometros')
+print(f'{dac} decametros')
+print(f'{n} metros')
+print(f'{dc} decimetros')
+print(f'{cen} centimetros')
+print(f'{mil} milimetros')

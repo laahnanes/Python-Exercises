@@ -1,0 +1,2 @@
+c = float(input('Digite a temperatura em C° = '))
+print(f'A temperatura em Fahrenheit: {(9 * c) / 5 + 32:.1f} Fº')

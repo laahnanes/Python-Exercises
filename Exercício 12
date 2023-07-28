@@ -1,0 +1,5 @@
+preco = float(input())
+desconto = (preco / 100) * 5
+novopreco = preco - desconto
+print(f'O valor original é de: R${preco}.')
+print(f'A peça com desconto custa R${novopreco:.2f}.')

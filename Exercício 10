@@ -1,0 +1,3 @@
+n = float(input('Quanto dinheiro você tem? '))
+quant = n / 3.27
+print(f'Você pode comprar U$ {quant:.2f}')
